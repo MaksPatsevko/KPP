@@ -1,0 +1,15 @@
+- !!org.example.Athlete2
+  age: 25
+  medals: 3
+  name: Jane Smith
+  sport: Running
+- !!org.example.Athlete2
+  age: 32
+  medals: 5
+  name: John Doe
+  sport: null
+- !!org.example.Athlete2
+  age: 28
+  medals: 7
+  name: Bob Johnson
+  sport: Cycling

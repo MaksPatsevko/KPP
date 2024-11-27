@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John Doe",
+    "sport": "Swimming",
+    "medals": [
+      "Gold",
+      "Silver",
+      "Bronze",
+      "Gold",
+      "Silver"
+    ]
+  },
+  {
+    "name": "Jane Smith",
+    "sport": "Athletics",
+    "medals": [
+      "Gold",
+      "Silver",
+      "Bronze"
+    ]
+  },
+  {
+    "name": "Mike Johnson",
+    "sport": "Boxing",
+    "medals": [
+      "Gold",
+      "Silver"
+    ]
+  }
+]

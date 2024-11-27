@@ -13,7 +13,6 @@ public class CurrencyPredictor {
         }
 
         // Прогнозування курсу на основі регресії
-        // Прогнозуємо курс на день вперед (наприклад, 1 день в майбутньому)
         return regression.predict(rates.size());
     }
 }

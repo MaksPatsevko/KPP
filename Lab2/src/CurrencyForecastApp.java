@@ -30,7 +30,6 @@ public class CurrencyForecastApp {
                 }
 
 
-
                 // Завантаження та прогнозування
                 List<Double> rates = CurrencyDataLoader.loadHistoricalRates(currencyCode, daysUntilFutureDate);
                 double predictedRate = CurrencyPredictor.predictCurrencyRate(rates);
